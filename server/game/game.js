@@ -17,6 +17,7 @@ ship.x = game.screen.width / 2;
 ship.y = game.screen.height / 2;
 ship.width = 200;
 ship.height = 200;
+
 console.log(game.screen.width)
 
 window.addEventListener("keydown", (event) => {
